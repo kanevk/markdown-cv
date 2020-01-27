@@ -13,7 +13,7 @@ Senior Software Engineer
 
 
 ## Emphasis
-Curious and open-minded individual, passionate about forming mental models for complex problems and writing software that solves them. Experienced in designing APIs, writing quality tests, working on data-heavy applications and doing complex refactorings.
+Curious and open-minded individual, passionate about forming mental models for complex problems and writing software that solves them. Experienced in designing APIs, writing quality tests, working on data-heavy applications and doing hard refactorings.
 
 ### Strengths
  - Remote worker = communication + ethics + freedom
@@ -38,18 +38,17 @@ Working exclusively on Rails and NodeJS backed services. A Major part of my work
 - Speeding up the data deploys more than 100%
 - Fast reaction to business-critical issues
 
-### Senior Fullstack Ruby Developer
+### Senior Full-Stack Ruby Developer
 
 `2017-2019`
 __ReceiptBank__
 
 Working under "Majestic Rails Monilth", carrying refactorings and introducing new features have taught me a lot. Under excellent mentorship, I've learned a lot about being pragmatic and organized. Reviewing other people's work taught me how to express myself better. Part of my contribution is:  
   
-  - Delivering a medium feature in the first month of employment
   - Completing full-stack refactoring of an important business UI component
   - Becoming a mandatory code reviewer of the company's biggest application
 
-### Full-Stack Ruby Developer
+### Full-Stack Developer
 
 `2016-2017`
 __Tradeo__
@@ -74,7 +73,7 @@ Starting as a novice with mostly academic knowledge, I was very motivated and pa
 `2013-∞`
 __Faculty of Mathematics and Informatics, Sofia University, Bulgaria__
 
-Studying Bachelor Degree in Computer Science, 3rd year
+Studying Bachelor Degree in Computer Science
 
 `2008-2013`
 __School of Mathematics and Nature sciences, Haskovo, Bulgaria__
