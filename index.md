@@ -17,7 +17,7 @@ Curious and open-minded individual, passionate about forming mental models for c
 
 ### Strengths
  - Remote worker = communication + ethics + freedom
- - Practicle = maximum efficiency with minimum effort
+ - Practical = maximum efficiency with minimum effort
  - Openminded = listen more, talk less
 
 ### Technologies
