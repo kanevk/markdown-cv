@@ -31,7 +31,7 @@ Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistr
 `2019-ongoing`
 __FM::Systems__
 
-Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 100k rows) for custom time ranges. Part of my contribution is:  
+Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 500 million rows) for custom time ranges. Part of my contribution is:  
   
 - Leading a team
 - Optimizing the load time of the main page with as much as 20%
