@@ -6,7 +6,7 @@ title: Kamen Kanev
 Senior Software Engineer
 
 <div id="webaddress">
-<a href="kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
+<a href="mailto:kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">LinkedIn</a>
 | <a href="https://github.com/kanevk">Github</a>
 | <a href="https://kanevk.github.io/markdown-cv">Recursion</a>
