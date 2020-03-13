@@ -16,7 +16,7 @@ Senior Software Engineer
 Curious and open-minded individual, passionate about forming mental models for complex problems and writing software that solves them. Experienced in designing APIs, writing quality tests, working on data-heavy applications and doing hard refactorings.
 
 ### Strengths
- - Remote worker = communication + ethics + freedom
+ - Remote worker = communication, ethics, freedom
  - Practical = maximum efficiency with minimum effort
  - Openminded = listen more, talk less
 
