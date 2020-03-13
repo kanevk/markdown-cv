@@ -24,21 +24,25 @@ Curious and open-minded individual, passionate about forming mental models for c
 
 Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistrano, RSpec
 
+### Personal Projects
+ 💡[Unofficial Google Keep client](https://github.com/kanevk/gkeep-files-sync)  
+ 🃏🃏[Poker engine - game logic library](https://github.com/kanevk/poker-engine)
+
 ## Professional Experience
 
-### Senior Backend Developer
+### Backend Team Lead
 
 `2019-ongoing`
-__FM::Systems__
+__Rifiniti__
 
 Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 500 million rows) for custom time ranges. Part of my contribution is:  
   
-- Leading a team
+- Leading a small team
 - Optimizing the load time of the main page with as much as 20%
 - Speeding up the data deploys more than 100%
 - Fast reaction to business-critical issues
 
-### Senior Full-Stack Ruby Developer
+### Senior Full-Stack Web Developer
 
 `2017-2019`
 __ReceiptBank__
@@ -48,7 +52,7 @@ Working under "Majestic Rails Monilth", carrying refactorings and introducing ne
   - Completing full-stack refactoring of an important business UI component
   - Becoming a mandatory code reviewer of the company's biggest application
 
-### Full-Stack Developer
+### Full-Stack Web Developer
 
 `2016-2017`
 __Tradeo__
@@ -58,7 +62,7 @@ Stepping in a higher position in Tradeo, I began writing NodeJS, started managin
  - Developing features and services within a highly reliable NodeJS backend
  - Building from scratch in-house Content Management System(inspired by React) as a head developer
 
-### Junior Web Developer
+### Junior Full-Stack Web Developer
 
 `2015-2016`
 __Tradeo__
@@ -83,5 +87,5 @@ Graduated as Mathematician of class 2013
 
 <!-- ### Footer
 
-Last updated: January 2020 -->
+Last updated: March 2020 -->
 
