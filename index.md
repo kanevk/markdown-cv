@@ -9,7 +9,7 @@ Senior Software Engineer
 <a href="kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">LinkedIn</a>
 | <a href="https://github.com/kanevk">Github</a>
-| <a href="https://kanevk.github.io/markdown-cv">CV</a>
+| <a href="https://kanevk.github.io/markdown-cv">Recursion</a>
 </div>
 
 
@@ -26,7 +26,7 @@ Curious and open-minded individual, passionate about forming mental models for c
 Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistrano, RSpec
 
 ### Personal Projects
-[Unofficial Google Keep client](https://github.com/kanevk/gkeep-files-sync) | [Poker engine - game logic library](https://github.com/kanevk/poker-engine) | [More...](https://github.com/kanevk?tab=repositories)
+[Google Keep File System Sync](https://github.com/kanevk/gkeep-files-sync) | [Poker engine - game logic library](https://github.com/kanevk/poker-engine) | [More...](https://github.com/kanevk?tab=repositories)
 
 ## Professional Experience
 
