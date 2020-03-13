@@ -25,8 +25,7 @@ Curious and open-minded individual, passionate about forming mental models for c
 Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistrano, RSpec
 
 ### Personal Projects
- 💡[Unofficial Google Keep client](https://github.com/kanevk/gkeep-files-sync)  
- 🃏🃏[Poker engine - game logic library](https://github.com/kanevk/poker-engine)
+[Unofficial Google Keep client](https://github.com/kanevk/gkeep-files-sync) | [Poker engine - game logic library](https://github.com/kanevk/poker-engine) | [More...](https://github.com/kanevk?tab=repositories)
 
 ## Professional Experience
 
