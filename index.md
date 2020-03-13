@@ -9,6 +9,7 @@ Senior Software Engineer
 <a href="kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">LinkedIn</a>
 | <a href="https://github.com/kanevk">Github</a>
+| <a href="https://kanevk.github.io/markdown-cv">CV</a>
 </div>
 
 
