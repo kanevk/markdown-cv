@@ -3,7 +3,7 @@ layout: cv
 title: Kamen Kanev
 ---
 # Kamen Kanev
-Senior Software Engineer
+Entrepreneur and Engineer
 
 <div id="webaddress">
 <a href="mailto:kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
@@ -14,25 +14,26 @@ Senior Software Engineer
 
 
 ## Emphasis
-Curious and open-minded individual, passionate about forming mental models for complex problems and writing software that solves them. Experienced in designing APIs, writing quality tests, working on data-heavy applications and doing hard refactorings.
+Curious and open-minded individual, passionate about forming mental models for complex problems and developing solutions that have social impact. Experienced in  managing people, building workflows, designing APIs, writing quality tests, working on data-heavy applications, making hard refactorings and etc.
 
 ### Strengths
- - Remote worker = communication, ethics, freedom
- - Practical = maximum efficiency with minimum effort
- - Openminded = listen more, talk less
+ - Remote culture. I'm working remote or semi-remote the last 3 years.
+ - Practical. I'm good at finding the balance between minimumalistic style and efficient solutions
+ - Openminded. Always striving for listening and understanding first.
 
 ### Technologies
 
 Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistrano, RSpec
 
 ### Personal Projects
+[bakalin.bg](https://bakalin.bg/)
 [Google Keep File System Sync](https://github.com/kanevk/gkeep-files-sync) | [Poker engine - game logic library](https://github.com/kanevk/poker-engine) | [More...](https://github.com/kanevk?tab=repositories)
 
 ## Professional Experience
 
 ### Backend Team Lead
 
-`2019-ongoing`
+`2019-2020`
 __Rifiniti__
 
 Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 500 million rows) for custom time ranges. Part of my contribution is:  
