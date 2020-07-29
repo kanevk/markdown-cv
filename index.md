@@ -36,7 +36,7 @@ Ruby on Rails, Python, Django, NodeJS, React, GraphQL, PostgreSQL, RSpec, Capist
 `2020-ongoing`
 __Bakalin BG__
 
-We at www.bakalin.bg have the ambition of making the local specialty stores competitive to the supermarket chains. I and my partners have built the service from scratch, and I've learned a lot in various areas: Product vision, UX, People management, Logistics, Legal, Negotiation. One of the most noticeable achievements of mine is innovating with a delivery strategy that has improved our profit predictions with up to 20% on a yearly base.
+We at <a href="www.bakalin.bg">www.bakalin.bg</a> have the ambition of making the local specialty stores competitive to the supermarket chains. I and my partners have built the service from scratch, and I've learned a lot in various areas: Product vision, UX, People management, Logistics, Legal, Negotiation. One of the most noticeable achievements of mine is innovating with a delivery strategy that has improved our profit predictions with up to 20% on a yearly base.
 
 - Solving quantity management(for grocery products) issues with >98% efficiency
 - Implementing agile at a fully remote team with flexible work schedule
