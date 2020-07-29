@@ -43,7 +43,7 @@ We at <a href="www.bakalin.bg">www.bakalin.bg</a> have the ambition of making th
 - Making over 30 user interviews for validating product hypotheses
 - Contributing for 20-30% of the code base
 
-### Backend Team Lead
+### Team Lead
 
 `2019-2020`
 __Rifiniti__
