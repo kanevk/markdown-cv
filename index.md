@@ -26,7 +26,7 @@ Curious and open-minded individual, passionate about forming mental models for c
 Ruby on Rails, Python, Django, NodeJS, React, GraphQL, PostgreSQL, RSpec, Capistrano
 
 ### Personal Projects
-[Bakalin BG - e-grocery market place](https://bakalin.bg/) |
+[Bakalin BG - e-grocery marketplace](https://bakalin.bg/) |
 [Google Keep File System Sync](https://github.com/kanevk/gkeep-files-sync) | [Poker engine - game logic library](https://github.com/kanevk/poker-engine) | [More...](https://github.com/kanevk?tab=repositories)
 
 ## Professional Experience
@@ -38,7 +38,7 @@ __Bakalin BG__
 
 We at www.bakalin.bg have the ambition of making the local specialty stores competitive to the supermarket chains. I and my partners have built the service from scratch, and I've learned a lot in various areas: Product vision, UX, People management, Logistics, Legal, Negotiation. One of the most noticeable achievements of mine is innovating with a delivery strategy that has improved our profit predictions with up to 20% on a yearly base.
 
-- Solving quantity management(for grocery products) issues with >98%
+- Solving quantity management(for grocery products) issues with >98% efficiency
 - Implementing agile at a fully remote team with flexible work schedule
 - Making over 30 user interviews for validating product hypotheses
 - Contributing for 20-30% of the code base
