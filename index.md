@@ -17,19 +17,31 @@ Entrepreneur and Engineer
 Curious and open-minded individual, passionate about forming mental models for complex problems and developing solutions that have social impact. Experienced in  managing people, building workflows, designing APIs, writing quality tests, working on data-heavy applications, making hard refactorings and etc.
 
 ### Strengths
- - Remote culture. I'm working remote or semi-remote the last 3 years.
- - Practical. I'm good at finding the balance between minimumalistic style and efficient solutions
- - Openminded. Always striving for listening and understanding first.
+ - Practical. I'm good at finding the balance between minimumalistic view and efficient solutions.
+ - Openminded. I listen, respect, and always try to understand the other person.
+ - Remote culture. I've been working remotely for the last 4 years.
 
 ### Technologies
 
-Ruby, Rails, Javascript, Python, GraphQL, PostgreSQL, React, BackboneJS, Capistrano, RSpec
+Ruby on Rails, Python, Django, NodeJS, React, GraphQL, PostgreSQL, RSpec, Capistrano
 
 ### Personal Projects
-[bakalin.bg](https://bakalin.bg/)
+[Bakalin BG - e-grocery market place](https://bakalin.bg/) |
 [Google Keep File System Sync](https://github.com/kanevk/gkeep-files-sync) | [Poker engine - game logic library](https://github.com/kanevk/poker-engine) | [More...](https://github.com/kanevk?tab=repositories)
 
 ## Professional Experience
+
+### CEO
+
+`2020-ongoing`
+__Bakalin BG__
+
+We at www.bakalin.bg have the ambition of making the local specialty stores competitive to the supermarket chains. I and my partners have built the service from scratch, and I've learned a lot in various areas: Product vision, UX, People management, Logistics, Legal, Negotiation. One of the most noticeable achievements of mine is innovating with a delivery strategy that has improved our profit predictions with up to 20% on a yearly base.
+
+- Solving quantity management(for grocery products) issues with >98%
+- Implementing agile at a fully remote team with flexible work schedule
+- Making over 30 user interviews for validating product hypotheses
+- Contributing for 20-30% of the code base
 
 ### Backend Team Lead
 
@@ -88,5 +100,5 @@ Graduated as Mathematician of class 2013
 
 <!-- ### Footer
 
-Last updated: March 2020 -->
+Last updated: July 2020 -->
 
