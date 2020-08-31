@@ -2,7 +2,15 @@
 layout: cv
 title: Kamen Kanev
 ---
-# Entrepreneur and Engineer
+# Kamen Kanev
+Entrepreneur and Engineer
+
+<div id="webaddress">
+<a href="mailto:kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
+| <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">LinkedIn</a>
+| <a href="https://github.com/kanevk">Github</a>
+| <a href="https://kanevk.github.io/markdown-cv">Recursion</a>
+</div>
 
 ## Emphasis
 Curious and open-minded individual, passionate about forming mental models for complex problems and developing solutions that have social impact. Experienced in  managing people, building workflows, designing APIs, writing quality tests, working on data-heavy applications, making hard refactorings and etc.
