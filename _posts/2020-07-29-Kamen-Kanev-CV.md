@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Kamen Kanev
+comment: Default CV
 ---
 # Kamen Kanev
 Entrepreneur and Engineer
@@ -48,8 +49,8 @@ We at <a href="www.bakalin.bg">www.bakalin.bg</a> have the ambition of making th
 `2019-2020`
 __Rifiniti__
 
-Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 500 million rows) for custom time ranges. Part of my contribution is:  
-  
+Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems coming from the requirements for fast analysis(<0.5s) of time-series data(over 500 million rows) for custom time ranges. Part of my contribution is:
+
 - Leading a small team
 - Optimizing the load time of the main page with as much as 20%
 - Speeding up the data deploys more than 100%
@@ -60,8 +61,8 @@ Working exclusively on Rails and NodeJS backed services. A Major part of my work
 `2017-2019`
 __ReceiptBank__
 
-Working under "Majestic Rails Monilth", carrying refactorings and introducing new features have taught me a lot. Under excellent mentorship, I've learned a lot about being pragmatic and organized. Reviewing other people's work taught me how to express myself better. Part of my contribution is:  
-  
+Working under "Majestic Rails Monilth", carrying refactorings and introducing new features have taught me a lot. Under excellent mentorship, I've learned a lot about being pragmatic and organized. Reviewing other people's work taught me how to express myself better. Part of my contribution is:
+
   - Completing full-stack refactoring of an important business UI component
   - Becoming a mandatory code reviewer of the company's biggest application
 
@@ -70,8 +71,8 @@ Working under "Majestic Rails Monilth", carrying refactorings and introducing ne
 `2016-2017`
 __Tradeo__
 
-Stepping in a higher position in Tradeo, I began writing NodeJS, started managing people and actively contributed to the code review process. My achievements were:  
-  
+Stepping in a higher position in Tradeo, I began writing NodeJS, started managing people and actively contributed to the code review process. My achievements were:
+
  - Developing features and services within a highly reliable NodeJS backend
  - Building from scratch in-house Content Management System(inspired by React) as a head developer
 
@@ -80,7 +81,7 @@ Stepping in a higher position in Tradeo, I began writing NodeJS, started managin
 `2015-2016`
 __Tradeo__
 
-Starting as a novice with mostly academic knowledge, I was very motivated and passionate about the work. I took most of the offered mentorship and managed to make my way to interesting and challenging tasks:  
+Starting as a novice with mostly academic knowledge, I was very motivated and passionate about the work. I took most of the offered mentorship and managed to make my way to interesting and challenging tasks:
 
  - Developing a transaction table component in React within the most dynamic part of the application
  - Integrating a new payment provider
