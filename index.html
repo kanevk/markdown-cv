@@ -15,9 +15,10 @@ Title: All of the CVs
                 {% if site.posts.size == 0 %}
                 <p class="text-center">Nothing published yet!</p>
                 {% else %}
+                <h1 style="margin-bottom: 50px;">Resumes</h1>
                 <ul>
                     {% for post in site.posts %}
-                    <li> <a href="{{ post.url | relative_url }}"> {{ post.title }}: {{ post.comment }} </a> </li>
+                    <li> <a href="{{ post.url | relative_url }}"> {{ post.comment }} </a> </li>
                     {% endfor %}
                 </ul>
                 {% endif %}
