@@ -58,7 +58,7 @@ Part of my contribution is:
 `May 2017 - May 2019`
 __[ReceiptBank](https://www.receipt-bank.com/){:target="_blank" rel="noopener"}__
 
-Working under "Majestic Rails Monilth" - carrying refactorings and delivering features have taught me a lot.
+Working under "Majestic Rails Monolith" - carrying refactorings and delivering features have taught me a lot.
 Under excellent mentorship, I've learned a lot about being pragmatic and organized.
 Reviewing other people's work taught me how to express myself better. Part of my contribution is:
 
