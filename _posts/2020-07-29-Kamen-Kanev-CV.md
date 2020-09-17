@@ -15,8 +15,8 @@ Senior Software Engineer and Entrepreneur
 ## Emphasis
 
 Curious and open-minded individual, passionate about forming mental models for complex problems and
-developing solutions that have social impact.
-Experienced in designing APIs, working on data-heavy applications, building processes and managing people.
+developing solutions that have a social impact.
+Experienced in designing APIs, working on data-heavy applications, building processes, and managing people.
 
 ### Technologies
 
@@ -36,9 +36,9 @@ One of the most noticeable achievements of mine is innovating with a delivery st
 that has improved our profit predictions with up to 20% on a yearly base.
 
 - Developing quantity management process(for grocery products) with >98% efficiency
-- Implementing agile principles in a fully remote team with flexible work schedule
+- Implementing agile principles in a fully remote team with a flexible work schedule
 - Making over 30 user interviews for validating product hypotheses
-- Contributing for 20-30% of the code base: 2x React SPAs + Django GraphQL API
+- Contributing for 20-30% of the codebase: 2x React SPAs + Django GraphQL API
 
 ### Team Lead
 
@@ -58,7 +58,7 @@ Part of my contribution is:
 `May 2017 - May 2019`
 __[ReceiptBank](https://www.receipt-bank.com/){:target="_blank" rel="noopener"}__
 
-Working under "Majestic Rails Monilth", carrying refactorings and introducing new features have taught me a lot.
+Working under "Majestic Rails Monilth" - carrying refactorings and delivering features have taught me a lot.
 Under excellent mentorship, I've learned a lot about being pragmatic and organized.
 Reviewing other people's work taught me how to express myself better. Part of my contribution is:
 
@@ -80,10 +80,10 @@ Stepping in a more responsible position, I started managing people and began con
 `July 2015 - June 2016`
 __[Tradeo](https://tradeo.com/){:target="_blank" rel="noopener"}__
 
-Starting as a novice with mostly academical knowledge, I was motivated and passionate about practicing software development.
-Working primarly on a Rails backend with Backbone + React frontend, I took most of the offered mentorship and managed to make my way to interesting and challenging tasks:
+Starting as a novice with mostly academic knowledge, I was motivated and passionate about practicing software development.
+Working primarily on a Rails backend with Backbone + React frontend, I took most of the offered mentorship and managed to make my way to interesting and challenging tasks:
 
- - Refactoring of a central React components(Transactions tables) in the most dynamic part of the platform
+ - Refactoring of central React components(Transactions tables) in the most dynamic part of the platform
  - Integrating a brand new payment provider in the Rails backend
 
 
@@ -106,8 +106,8 @@ Graduated as Mathematician of class 2013
 
 ## Strengths
 
-  `Engeenering`
-I'm good at finding the balance between minimumalistic mindset and efficient solutions.
+  `Engineering`
+I'm good at finding the balance between a minimalistic mindset and efficient solutions.
 
   `Communication`
 I listen, respect, and always try to understand the other person.
