@@ -7,10 +7,10 @@ comment: Default CV
 Software Engineer and Entrepreneur
 
 <div id="webaddress">
-<a href="tel:+359879666995">+359-879-666-995</a>
-| <a href="mailto:kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
-| <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">LinkedIn</a>
-| <a href="https://github.com/kanevk">Github</a>
+<a target="_blank" rel="noopener" href="tel:+359879666995">+359-879-666-995</a>
+| <a target="_blank" rel="noopener" href="mailto:kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
+| <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/kamen-kanev-97889b116/">LinkedIn</a>
+| <a target="_blank" rel="noopener" href="https://github.com/kanevk">Github</a>
 </div>
 
 ## Emphasis
