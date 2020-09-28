@@ -4,10 +4,11 @@ title: Kamen Kanev
 comment: Default CV
 ---
 # Kamen Kanev
-Senior Software Engineer and Entrepreneur
+Software Engineer and Entrepreneur
 
 <div id="webaddress">
-<a href="mailto:kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
+<a href="tel:+359879666995">+359-879-666-995</a>
+| <a href="mailto:kamen.e.kanev@gmail.com">kamen.e.kanev@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kamen-kanev-97889b116/">LinkedIn</a>
 | <a href="https://github.com/kanevk">Github</a>
 </div>
@@ -24,21 +25,21 @@ Ruby on Rails, React, GraphQL, PostgreSQL, Python, Django, NodeJS, RSpec, AWS, C
 
 ## Professional Experience
 
-### CEO
+### Founder / CEO
 
 `April 2020 - September 2020`
-__[Bakalin BG](https://tradeo.com/){:target="_blank" rel="noopener"}__
+__[Bakalin BG](https://bakalin.bg/){:target="_blank" rel="noopener"}__
 
 We at Bakalin BG have the ambition of making the local specialty stores competitive to the supermarket chains.
 I and my partners have built the service from scratch, and I've learned a lot in various areas:
-Product vision, UX, People management, Logistics, Legal, Negotiation.
+Product vision, UX, Leadership, Logistics, Legal, Negotiation.
 One of the most noticeable achievements of mine is innovating with a delivery strategy
 that has improved our profit predictions with up to 20% on a yearly base.
-
-- Developing quantity management process(for grocery products) with >98% efficiency
-- Implementing agile principles in a fully remote team with a flexible work schedule
-- Making over 30 user interviews for validating product hypotheses
+- Managing a team of 5 highly skilled young people
 - Contributing for 20-30% of the codebase: 2x React SPAs + Django GraphQL API
+- Developing a quantity management system(for grocery products) having up to 98% efficiency
+- Implementing agile practices in a **fully remote team** with a flexible work schedule
+- Making over 30 user interviews for validating product hypotheses
 
 ### Team Lead
 
@@ -48,43 +49,46 @@ __[Rifiniti, an FM:Systems Company](https://fmsystems.com/acq/rifiniti-is-now-fm
 Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems
 coming from the requirements for fast analysis(<0.5s) of time-series data(over 500 million rows) for custom time ranges.
 Part of my contribution is:
-- Leading a team of highly skilled developers
+- Leading a team of 3 talented software engineers
 - Optimizing the load time of the main page with more than 30%
-- Speeding up the data deploys with more than 100%
-- Fast reaction to business-critical issues
+- Speeding up the data deploys more than 2x
 
 ### Senior Full-Stack Web Developer
 
 `May 2017 - May 2019`
 __[ReceiptBank](https://www.receipt-bank.com/){:target="_blank" rel="noopener"}__
 
-Working under "Majestic Rails Monolith" - carrying refactorings and delivering features have taught me a lot.
-Under excellent mentorship, I've learned a lot about being pragmatic and organized.
-Reviewing other people's work taught me how to express myself better. Part of my contribution is:
-
-  - Completing full-stack refactoring of an important business UI component
-  - Becoming a mandatory code reviewer of the company's biggest application
+Worked alongside the best Rubists in town, maintaining a complex platform over Rails/GraphQL/Backbone/React tech stack.
+A key aspect of my job was balancing between what's desired from the clients' point of view and what's reasonable from the technological side.
+It was a process of following the best agile practices, keeping short feedback loops, and writing durable code -
+all that while working fully **remote**. My achievements were:
+- Being part of an agile cross-functional team and delivering advanced features for top tear clients
+- Completing multiple refactorings of business-critical UI components
+- Being part of a GDPR deletion functionality in a system with over 80 database tables
+- Doing zero-downtime migrations over tenths of millions of rows
+- Improving the code's test coverage with over 10%
 
 ### Full-Stack Web Developer
 
 `June 2016 - May 2017`
 __[Tradeo](https://tradeo.com/){:target="_blank" rel="noopener"}__
 
-Stepping in a more responsible position, I started managing people and began contributing to the NodeJS backend services. My achievements were:
-
- - Building from scratch in-house Content Management System as a head developer
- - Building from scratch micro-service in NodeJS over ZMQ
+Stepping in a more responsible position, I started managing people and shifted focus towards the
+NodeJS backend services. My achievements were:
+ - Building from scratch in-house Content Management System as a **Head developer** using Rails/BackboneJS
+ - Starting a green-field micro-service in NodeJS utilizing ZMQ communication
 
 ### Junior Full-Stack Web Developer
 
 `July 2015 - June 2016`
 __[Tradeo](https://tradeo.com/){:target="_blank" rel="noopener"}__
 
-Starting as a novice with mostly academic knowledge, I was motivated and passionate about practicing software development.
-Working primarily on a Rails backend with Backbone + React frontend, I took most of the offered mentorship and managed to make my way to interesting and challenging tasks:
-
- - Refactoring of central React components(Transactions tables) in the most dynamic part of the platform
- - Integrating a brand new payment provider in the Rails backend
+Starting as a novice with mostly academic knowledge, I was passionate working under the direct mentorship
+of the CTO [Bozhidar Batsov](https://github.com/bbatsov){:target="_blank" rel="noopener"} creator of [RuboCop](https://github.com/rubocop-hq/rubocop){:target="_blank" rel="noopener"}.
+Working primarily on a Rails/Backbone/React tech stack. I took most of the offered mentorship and managed to make my way
+to interesting and challenging tasks:
+ - Refactoring of central/business-critical React components in the most dynamic part of the platform
+ - Extending the payment system with a brand new payment provider
 
 
 ## Other Projects
@@ -96,12 +100,12 @@ Working primarily on a Rails backend with Backbone + React frontend, I took most
 `2013-∞`
 __Faculty of Mathematics and Informatics, Sofia University, Bulgaria__
 
-Studied Bachelor Degree in Computer Science
-
 `2008-2013`
 __School of Mathematics and Nature sciences, Haskovo, Bulgaria__
 
-Graduated as Mathematician of class 2013
+ - Graduated as Mathematician of class 2013
+ - Taking 1st place on over 6 regional mathematical olympiads over the years
+ - Taking twice 5th place on the **national mathematical competitions**
 
 
 ## Strengths
@@ -112,12 +116,12 @@ I'm good at finding the balance between a minimalistic mindset and efficient sol
   `Communication`
 I listen, respect, and always try to understand the other person.
 
-`Remote culture`
-I've been working __remotely__ for a total of 4 years.
+  `Remote culture`
+I've been working **remotely** for a total of 4 years.
 
 
 
 <!-- ### Footer
 
-Last updated: July 2020 -->
+Last updated: September 2020 -->
 
