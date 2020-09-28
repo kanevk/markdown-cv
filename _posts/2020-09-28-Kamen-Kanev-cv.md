@@ -66,7 +66,6 @@ all that while working fully **remote**. Some of my notable achievements are:
 - Completing multiple refactorings of business-critical UI components
 - Being part of a GDPR deletion functionality in a system with over 80 database tables
 - Doing zero-downtime migrations over tenths of millions of rows
-- Improving the code's test coverage with over 10%
 
 ### Full-Stack Web Developer
 
