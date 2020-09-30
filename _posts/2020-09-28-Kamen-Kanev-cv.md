@@ -58,8 +58,8 @@ Part of my contribution is:
 `May 2017 - May 2019`
 __[ReceiptBank](https://www.receipt-bank.com/){:target="_blank" rel="noopener"}__
 
-Worked alongside the best Rubists in country, maintaining a complex platform over Rails/GraphQL/Backbone/React tech stack.
-A key aspect of my job was balancing between what's desired from the clients' point of view and what's reasonable from the technological side.
+Worked alongside the best Rubists in the country, maintaining a complex platform over Rails/GraphQL/Backbone/React tech stack.
+A key aspect of my job was, balancing between what's desired, from the clients' point of view, and what's reasonable from the technological side.
 It was a process of following the best agile practices, keeping short feedback loops, and writing durable code -
 all that while working fully **remote**. Some of my notable achievements are:
 - Being part of an agile cross-functional team and delivering advanced features for top tear clients
@@ -82,7 +82,7 @@ NodeJS backend services. My noticeable achievements are:
 `July 2015 - June 2016`
 __[Tradeo](https://tradeo.com/){:target="_blank" rel="noopener"}__
 
-Starting as a novice with mostly academic knowledge, I was passionate working under the direct mentorship
+Starting as a novice with mostly academic knowledge, I had the pleasure of working under the mentorship
 of the CTO [Bozhidar Batsov](https://github.com/bbatsov){:target="_blank" rel="noopener"}.
 Working primarily on a Rails/Backbone/React tech stack. I took most of the offered mentorship and managed to make my way
 to interesting and challenging tasks:
@@ -92,7 +92,7 @@ to interesting and challenging tasks:
 
 ## Open-source
   [Google Keep File System Sync](https://github.com/kanevk/gkeep-files-sync){:target="_blank" rel="noopener"}
-| [Poker engine - game logic library](https://github.com/kanevk/poker-engine){:target="_blank" rel="noopener"}
+| [Poker engine - functional game logic library](https://github.com/kanevk/poker-engine){:target="_blank" rel="noopener"}
 | [Dalek - configuration first deletion utility](https://github.com/kanevk/dalek){:target="_blank" rel="noopener"}
 
 
