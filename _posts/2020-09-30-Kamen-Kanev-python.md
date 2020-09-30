@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Kamen Kanev
-comment: Default CV
+comment: python-sided CV
 ---
 # Kamen Kanev
 Software Engineer and Entrepreneur
@@ -21,23 +21,22 @@ Experienced in designing APIs, working on data-heavy applications, building proc
 
 ### Technologies
 
-Ruby on Rails, React, GraphQL, PostgreSQL, Python, Django, NodeJS, RSpec, AWS, Capistrano
+React, Python, Ruby, GraphQL, PostgreSQL, NodeJS, RSpec, AWS, Capistrano
 
 ## Professional Experience
 
-### Founder / CEO
+### Founder / Executive
 
 `April 2020 - September 2020`
 __[Bakalin BG](https://bakalin.bg/){:target="_blank" rel="noopener"}__
 
-Bakalin BG have the ambition of making the local specialty stores competitive to the supermarket chains.
-While building the service from scratch, I have developed expertise in various areas:
-Product vision, UX, Leadership, Logistics, Legal, Negotiation.
-One of my most noticeable achievements is contributing to a simplistic delivery price calculation rules
-that improved our business plan profit predictions with around 20%.
+While building the e-grocery service from scratch, I developed expertise in various areas:
+Leadership, Negotiation, Product vision, UX, Logistics. I also got my hands dirty with new technologies: Django, Graphene, Celery, and Semantic UI.
+One of our biggest challenges keeping the team productive and motivated while dealing with a diverse workload.
+Here are some of my notable achievements:
 - Managing a team of 5 highly skilled professionals
 - Implementing agile practices in a **fully remote team** with a flexible work schedule
-- Contributing for 20-30% of the codebase: 2x React SPAs + Django GraphQL API
+- Contributing to the Graphene API with functionality for batch product import
 - Developing a quantity management system having up to 95% efficiency for matching client orders to in-stock products
 - Making over 30 user interviews for validating product hypotheses
 
@@ -46,12 +45,13 @@ that improved our business plan profit predictions with around 20%.
 `June 2019 - March 2020`
 __[Rifiniti, an FM:Systems Company](https://fmsystems.com/acq/rifiniti-is-now-fm-systems/){:target="_blank" rel="noopener"}__
 
-Working exclusively on Rails and NodeJS backed services. A Major part of my work included solving complex database problems
+Working exclusively on Rails + GraphQL/NodeJS backed services running on AWS ECS infrastructure. A Major part of my work included solving complex database problems
 coming from the requirements for fast analysis(<0.5s) of time-series data(over 500 million rows) for custom time ranges.
 Part of my contribution is:
 - Leading a team of 3 talented software engineers
 - Optimizing the load time of the main page by more than 30%
 - Speeding up the data deploys more than twice
+- Improving local development drastically reducing feedback loops and utilizing Docker and Moto S3
 
 ### Senior Full-Stack Web Developer
 
@@ -63,9 +63,9 @@ A key aspect of my job was, balancing between what's desired, from the clients' 
 It was a process of following the best agile practices, keeping short feedback loops, and writing durable code -
 all that while working fully **remote**. Some of my notable achievements are:
 - Being part of an agile cross-functional team and delivering advanced features for top tear clients
-- Completing multiple refactorings of business-critical UI components
-- Being part of a GDPR deletion functionality in a system with over 80 database tables
 - Doing zero-downtime migrations over tenths of millions of rows
+- Being part of a GDPR deletion functionality in a system with over 80 database tables
+- Completing multiple refactorings of business-critical UI components
 
 ### Full-Stack Web Developer
 
@@ -91,7 +91,7 @@ to interesting and challenging tasks:
 
 
 ## Open-source
-  [Google Keep File System Sync](https://github.com/kanevk/gkeep-files-sync){:target="_blank" rel="noopener"}
+  [Google Keep File Sync **written in Python**](https://github.com/kanevk/gkeep-files-sync){:target="_blank" rel="noopener"}
 | [Poker engine - functional game logic library](https://github.com/kanevk/poker-engine){:target="_blank" rel="noopener"}
 | [Dalek - configuration first deletion utility](https://github.com/kanevk/dalek){:target="_blank" rel="noopener"}
 
@@ -125,4 +125,3 @@ I've been working **remotely** for a total of 4 years.
 <!-- ### Footer
 
 Last updated: September 2020 -->
-
