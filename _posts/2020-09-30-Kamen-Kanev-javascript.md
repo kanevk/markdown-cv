@@ -21,11 +21,11 @@ Experienced in designing APIs, working on data-heavy applications, building proc
 
 ### Technologies
 
-React, Python, Ruby, GraphQL, PostgreSQL, NodeJS, RSpec, AWS, Capistrano
+Ruby, Rails, React, GraphQL, PostgreSQL, NodeJS, Python, RSpec, AWS, Capistrano
 
 ## Professional Experience
 
-### Founder / Executive
+### Founder
 
 `April 2020 - September 2020`
 __[Bakalin BG](https://bakalin.bg/){:target="_blank" rel="noopener"}__
@@ -34,11 +34,10 @@ While building the e-grocery service from scratch, I developed expertise in vari
 Leadership, Negotiation, Product vision, UX, Logistics. I also got my hands dirty with new technologies: Django, Graphene, Celery, and Semantic UI.
 One of our biggest challenges keeping the team productive and motivated while dealing with a diverse workload.
 Here are some of my notable achievements:
-- Managing a team of 5 highly skilled professionals
+- Building MVPs of the core business applications with **React**, Apollo and SemanticUI
 - Implementing agile practices in a **fully remote team** with a flexible work schedule
-- Contributing to the Graphene API with functionality for batch product import
-- Developing a quantity management system having up to 95% efficiency for matching client orders to in-stock products
-- Making over 30 user interviews for validating product hypotheses
+- Managing a team of 5 highly skilled professionals
+- Making over 30 user interviews for validating product hypotheses and improving UX
 
 ### Team Lead
 
@@ -51,6 +50,7 @@ Part of my contribution is:
 - Leading a team of 3 talented software engineers
 - Optimizing the load time of the main page by more than 30%
 - Speeding up the data deploys more than twice
+- Contributing to frontend features with React and Apollo
 - Improving local development drastically reducing feedback loops and utilizing Docker and Moto S3
 
 ### Senior Full-Stack Web Developer
@@ -58,7 +58,7 @@ Part of my contribution is:
 `May 2017 - May 2019`
 __[ReceiptBank](https://www.receipt-bank.com/){:target="_blank" rel="noopener"}__
 
-Worked alongside the best Rubists in the country, maintaining a complex platform over Rails/GraphQL/Backbone/React tech stack.
+Worked alongside the best Rubists in the country, maintaining a complex platform over Rails/GraphQL/React tech stack.
 A key aspect of my job was, balancing between what's desired, from the clients' point of view, and what's reasonable from the technological side.
 It was a process of following the best agile practices, keeping short feedback loops, and writing durable code -
 all that while working fully **remote**. Some of my notable achievements are:
@@ -91,7 +91,7 @@ to interesting and challenging tasks:
 
 
 ## Open-source
-  [Google Keep File Sync **written in Python**](https://github.com/kanevk/gkeep-files-sync){:target="_blank" rel="noopener"}
+  [Google Keep File Sync](https://github.com/kanevk/gkeep-files-sync){:target="_blank" rel="noopener"}
 | [Poker engine - functional game logic library](https://github.com/kanevk/poker-engine){:target="_blank" rel="noopener"}
 | [Dalek - configuration first deletion utility](https://github.com/kanevk/dalek){:target="_blank" rel="noopener"}
 
