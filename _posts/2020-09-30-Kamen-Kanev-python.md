@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Kamen Kanev
-comment: python-sided CV
+comment: Python sided CV
 ---
 # Kamen Kanev
 Software Engineer and Entrepreneur

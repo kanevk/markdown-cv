@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Kamen Kanev
-comment: python-sided CV
+comment: JavaScript sided CV
 ---
 # Kamen Kanev
 Software Engineer and Entrepreneur
@@ -34,7 +34,7 @@ While building the e-grocery service from scratch, I developed expertise in vari
 Leadership, Negotiation, Product vision, UX, Logistics. I also got my hands dirty with new technologies: Django, Graphene, Celery, and Semantic UI.
 One of our biggest challenges keeping the team productive and motivated while dealing with a diverse workload.
 Here are some of my notable achievements:
-- Building MVPs of the core business applications with **React**, Apollo and SemanticUI
+- Building MVPs of the core business applications with React, Apollo and SemanticUI
 - Implementing agile practices in a **fully remote team** with a flexible work schedule
 - Managing a team of 5 highly skilled professionals
 - Making over 30 user interviews for validating product hypotheses and improving UX
