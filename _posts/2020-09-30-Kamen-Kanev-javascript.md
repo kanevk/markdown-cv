@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Kamen Kanev
-comment: javascript-sided CV
+comment: JavaScript sided CV
 ---
 # Kamen Kanev
 Software Engineer and Entrepreneur
